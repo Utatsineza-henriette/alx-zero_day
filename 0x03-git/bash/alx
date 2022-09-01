@@ -2,3 +2,6 @@
  echo "Alx" 
 #!/bin/bash
  echo "Alx" 
+#!/bin/bash\/ echo "ALX School" 
+#!/bin/bash\n echo "ALX School" 
+#!/bin/bash\n echo "ALX School is open!" 
